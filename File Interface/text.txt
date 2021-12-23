@@ -1,0 +1,10 @@
+Reading a Text File 
+The FileReader readAsText() method enables 
+you to read a text file on the local file system. The 
+following example shows how to read a text file.  
+The web page includes an <input> element that 
+enables the user to select a text file on the local 
+file system. As soon as the user has selected the 
+file, the onLoadTextFile() function reads the file 
+and displays its contents as plain text in a 
+<textarea> element on the web page. 
